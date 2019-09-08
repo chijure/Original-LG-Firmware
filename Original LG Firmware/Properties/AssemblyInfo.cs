@@ -6,11 +6,11 @@ using System.Runtime.InteropServices;
 // conjunto de atributos. Cambie estos valores de atributo para modificar la información
 // asociada con un ensamblado.
 [assembly: AssemblyTitle("Original LG Firmware")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Download firmware for LG phones")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("ionutz_0001@yahoo.com")]
 [assembly: AssemblyProduct("Original LG Firmware")]
-[assembly: AssemblyCopyright("Copyright ©  2019")]
+[assembly: AssemblyCopyright("Copyright ©  2011 (by crecked)")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // El siguiente GUID sirve como id. de typelib si este proyecto se expone a COM.
-[assembly: Guid("5f994c1d-1bac-4f8d-82cf-12450814bf06")]
+[assembly: Guid("5f7f2be7-929d-4aa6-8bac-2374e172994f")]
 
 // La información de versión de un ensamblado consta de los cuatro valores siguientes:
 //
